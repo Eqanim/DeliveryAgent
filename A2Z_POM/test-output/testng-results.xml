@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66786" started-at="2020-04-24T17:30:48 IST" finished-at="2020-04-24T17:31:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66786" started-at="2020-04-24T17:30:48 IST" finished-at="2020-04-24T17:31:55 IST">
+      <class name="a2z.Testcases.SingleDeliveryCancelTest">
+        <test-method status="PASS" signature="DeliveryCancel()[pri:0, instance:a2z.Testcases.SingleDeliveryCancelTest@20398b7c]" name="DeliveryCancel" duration-ms="66696" started-at="2020-04-24T17:30:48 IST" finished-at="2020-04-24T17:31:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeliveryCancel -->
+      </class> <!-- a2z.Testcases.SingleDeliveryCancelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
